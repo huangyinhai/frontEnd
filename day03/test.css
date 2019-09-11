@@ -1,0 +1,52 @@
+div{
+    background-color: purple;
+    height: 100px;
+    width: 300px;
+    margin: 5px;
+    padding: 0px;
+}
+
+p{
+    background-color: aqua;
+    font-style: italic;
+    text-decoration-color:rgba(red, green, blue, alpha);
+    text-align: center;
+    font-size: 3em;
+}
+
+p:hover{
+    background-color: chocolate;
+    text-decoration: line-through;
+}
+
+a{
+    text-decoration: unset;
+    font-size: 2em 
+}
+
+a:hover{
+    color: red;
+    font-size: 3em;
+}
+
+i{
+    color: crimson;
+    font-size: 30px;
+}
+
+em{
+    color: cornflowerblue;
+    font-size: 30px;
+}
+
+.especially{
+    background-color: aliceblue;
+}
+
+strong{
+    font-size: 50px;
+}
+
+li{
+    list-style: none;
+}
