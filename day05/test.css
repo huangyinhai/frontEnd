@@ -1,0 +1,11 @@
+#box1{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+}
+
+div,h1,p{
+    border: 1px solid red;
+}

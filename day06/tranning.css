@@ -1,0 +1,44 @@
+.widgit{
+    width: 592px;
+    height: 481px;
+    background-color:red;
+    position: relative;  
+}
+
+.head{
+    width:592px;
+    height: 52px;
+    background-color: yellow;
+    position: absolute;
+    top: 50px;   
+}
+
+/* 排行榜 */
+.Billboard{
+    width: 130px;
+    height: 52px;
+    background-color: brown;   
+}
+
+.Billboard>span{
+    position: absolute;
+    left: 20px;
+    bottom: -spx;
+}
+
+.bottom_left{
+    width:260px;
+    height: 280px;
+    background-color: wheat;
+    position: absolute;
+    top:102px;
+}
+
+.bottom_right{
+    width: 332px;
+    height: 280px;
+    background-color: aquamarine;
+    position: absolute;
+    top: 102px;
+    left: 260px;
+}
